@@ -1,0 +1,163 @@
+body{
+    background-color: white;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.insta1{
+    margin-top: 75px;
+    text-align: center;
+}
+
+.insta1 img {
+    width: 50%;
+    height: auto;
+    display: block;
+}
+
+.container1{
+    border: 2px solid lightgray;
+    margin-top: 5%;
+    margin-left: -100px;
+    width: 25%;
+    height: 450px;
+}
+
+#containerimg{
+    margin-top: 25px;
+    margin-left: 90px;
+    width: 150px;
+    height: auto;
+}
+
+.container1 input{
+    width: 80%;
+    margin-top: 10px;
+    height: 25px;
+    margin-left: 28px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    font-size: 11px;
+}
+
+.container1 button{
+    width: 80%;
+    margin-top: 10px;
+    height: 30px;
+    margin-left: 28px;
+    background-color: dodgerblue;
+    border-radius: 5px;
+    color: white;
+    border: 0;
+    font-weight: bold;
+}
+
+.container1 p{
+    margin-top: 15px;
+    font-size: small;
+    font-weight: lighter;
+    text-align: center;
+    color: gray;
+}
+
+.container1 a{
+    text-decoration: none;
+}
+
+#playstore{
+    width: 100px;
+    height: auto;
+    margin-left: 60px;
+}
+
+#playstore2{
+    width: 85px;
+    height: auto;
+    margin-left: 30px;
+}
+
+.container2{
+    border: 1px solid lightgray;
+    margin-top: 1%;
+    margin-left: -100px;
+    width: 25%;
+    height: 650px;
+}
+
+#container2img{
+    margin-top: 25px;
+    margin-left: 70px;
+    width: 190px;
+    height: auto;
+}
+
+.container2 b{
+    font-size: 17px;
+    margin-left: 57px;
+    font-weight: normal;
+    font-family: inherit;
+}
+
+#bold2{
+    font-size: 17px;
+    margin-left: 110px;
+    font-weight: normal;
+    font-family: inherit;
+}
+
+.container2 input{
+    width: 80%;
+    margin-top: 10px;
+    height: 25px;
+    margin-left: 28px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    font-size: 11px;
+}
+
+.container2 button{
+    width: 80%;
+    margin-top: 10px;
+    height: 30px;
+    margin-left: 28px;
+    background-color: dodgerblue;
+    border-radius: 8px;
+    color: white;
+    border: 0;
+    font-weight: bold;
+}
+
+.container2 p{
+    margin-top: 15px;
+    font-size: small;
+    font-weight: lighter;
+    text-align: center;
+    color: gray;
+}
+
+.container2 a{
+    text-decoration: none;
+    color: gray;
+}
+
+#log{
+    text-decoration: none;
+    color: blue;
+}
+
+#playstore{
+    width: 100px;
+    height: auto;
+    margin-left: 60px;
+}
+
+#playstore2{
+    width: 85px;
+    height: auto;
+    margin-left: 30px;
+}
+
+
